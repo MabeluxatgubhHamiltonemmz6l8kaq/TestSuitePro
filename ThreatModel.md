@@ -2,3 +2,4 @@ ThreatAnalysis
 SetupInstructions
 ThreatScenarios
 ThreatMitigation
+ConfigSettings
