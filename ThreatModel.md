@@ -3,3 +3,4 @@ SetupInstructions
 ThreatScenarios
 ThreatMitigation
 ConfigSettings
+CommunityRules
