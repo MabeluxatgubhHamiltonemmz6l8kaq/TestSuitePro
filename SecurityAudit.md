@@ -4,3 +4,4 @@ AuditChecklist
 ToolDependencies
 SecurityExamples
 ContributionGuide
+ErrorHandling
