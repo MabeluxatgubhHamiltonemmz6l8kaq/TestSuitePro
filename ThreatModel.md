@@ -4,3 +4,4 @@ ThreatScenarios
 ThreatMitigation
 ConfigSettings
 CommunityRules
+LicenseDetails
