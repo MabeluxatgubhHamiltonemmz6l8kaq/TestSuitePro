@@ -5,3 +5,4 @@ ThreatMitigation
 ConfigSettings
 CommunityRules
 LicenseDetails
+SecurityFAQ
