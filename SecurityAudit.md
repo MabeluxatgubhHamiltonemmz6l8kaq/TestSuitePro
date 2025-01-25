@@ -6,3 +6,4 @@ SecurityExamples
 ContributionGuide
 ErrorHandling
 LegalNotes
+Changelog

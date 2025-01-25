@@ -6,3 +6,4 @@ ConfigSettings
 CommunityRules
 LicenseDetails
 SecurityFAQ
+SecurityUpdates
