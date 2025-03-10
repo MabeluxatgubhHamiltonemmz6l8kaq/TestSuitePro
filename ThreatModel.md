@@ -8,3 +8,4 @@ LicenseDetails
 SecurityFAQ
 SecurityUpdates
 ThreatOptimization
+CommunityResources
